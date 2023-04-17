@@ -1,0 +1,15 @@
+VI. Applications of kd Trees : 
+
+K-D trees have a wide range of applications and some of the most commonly used are :
+
+A. Image Processing: Kd trees are used in image processing applications .
+It can be used to search for similar images based on their pixel values or features.
+
+B. Computer Vision: Kd trees are used in computer vision applications such as object recognition .
+It can be used to search for objects in a video stream based on their features.
+
+C. Geographic Information Systems: Kd trees are used in geographic information systems (GIS) for geometrical data analysis and visualization.
+It can be used to search for points of interest in a geographic region based on their coordinates.
+
+D. Machine Learning : One of the most common uses is nearest neighbor search, where they’re used to find the closest point to a given point quickly.
+This makes them a useful component of many machine learning approaches like k-nearest neighbors(KNN) and a wide range of distance-based clustering algorithms.
